@@ -63,72 +63,79 @@ Classical World: Ethical Perspectives from Greek and Roman Texts</a></li>
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(30).pdf" style="text-decoration:none;">Roman Readings</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(31).pdf" style="text-decoration:none;">Restricted Boltzmann Machines for the Long Range Ising Models</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(32).pdf" style="text-decoration:none;">Equivalence of restricted Boltzmann machines and tensor network states</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(31).pdf" style="text-decoration:none;">Wisdom in Loose Form</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(32).pdf" style="text-decoration:none;">Marcus Aurelius: Meditations, Books 1-6 </a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(33).pdf" style="text-decoration:none;">Quantum Entanglement in Neural Network States</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(33).pdf" style="text-decoration:none;">Gellius the Satirist</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(34).pdf" style="text-decoration:none;">Efficient Representation of Quantum Many-body States with Deep Neural Networks</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(34).pdf" style="text-decoration:none;">Star Myths of the Greeks and Romans: A Sourcebook</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(35).pdf" style="text-decoration:none;">Neural network representation of tensor network and chiral states</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(35).pdf" style="text-decoration:none;">Magic, Witchcraft, and Ghosts in the Greek and Roman Worlds: A Sourcebook</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(36).pdf" style="text-decoration:none;">Opening the black box of Deep Neural Networks via Information</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(36).pdf" style="text-decoration:none;">The Genres of Rhetorical Speeches in Greek and Roman Antiquity</a></li> 
  
 <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(37).pdf" style="text-decoration:none;">Unsupervised learning of phase transitions: from principal component analysis to variational autoencoders</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(38).pdf" style="text-decoration:none;">Neural-network quantum state tomography for many-body systems</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(39).pdf" style="text-decoration:none;">Experimental Quantum Hamiltonian Learning</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(40).pdf" style="text-decoration:none;">Discovering Phases, Phase Transitions and Crossovers through Unsupervised Machine Learning: A critical examination</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(41).pdf" style="text-decoration:none;">Deep Learning and Quantum Entanglement: Fundamental Connections with Implications to Network Design</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(42).pdf" style="text-decoration:none;">Probing many-body localization with neural networks</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(38).pdf" style="text-decoration:none;">Roman Rule in Greek and Latin Writing</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(39).pdf" style="text-decoration:none;">Formulaic expressions in official Roman Republican epistolography inscribed in Greek</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(40).pdf" style="text-decoration:none;">Roman Festivals in the Greek East: From the Early Empire to the Middle Byzantine Era</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(41).pdf" style="text-decoration:none;">THE STOIC SAGE: The Early Stoics on Wisdom, Sagehood and Socrates</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(42).pdf" style="text-decoration:none;">Sulla, the Elites and
+the Empire: A Study of Roman Policies in Italy and the Greek East</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(43).pdf" style="text-decoration:none;">Approximating quantum many-body wave-functions using artificial neural networks</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(44).pdf" style="text-decoration:none;">Deterministic Quantum Annealing Expectation-Maximization Algorithm</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(45).pdf" style="text-decoration:none;">Kernel methods for interpretable machine learning of order parameters</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(43).pdf" style="text-decoration:none;">Euripides: Suppliant Women</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(44).pdf" style="text-decoration:none;">HERAKLES</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(45).pdf" style="text-decoration:none;">Greek and Roman Mythology</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(46).pdf" style="text-decoration:none;">Mutual Information, Neural Networks and the Renormalization Group</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(46).pdf" style="text-decoration:none;">Religious Identity in Late Antiquity: Greeks, Jews and Christians in Antioch (Greek Culture in the Roman World)</a></li> 
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(47).pdf" style="text-decoration:none;">Nonequilibrium Thermodynamics of Restricted Boltzmann Machines</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(48).pdf" style="text-decoration:none;">Reinforcement Learning in Different Phases of Quantum Control</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(47).pdf" style="text-decoration:none;">Greek and Roman Comedy</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(48).pdf" style="text-decoration:none;">A Companion to Greek and Roman Historiography: Volume I  </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(49).pdf" style="text-decoration:none;">Decoding Small Surface Codes with Feedforward Neural Networks </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(49).pdf" style="text-decoration:none;">Pursuits of Wisdom:
+Six Ways of Life in Ancient Philosophy from Socrates to Plotinus </a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(50).pdf" style="text-decoration:none;">A Separability-Entanglement Classifier via Machine Learning</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(51).pdf" style="text-decoration:none;">Machine Learning Z<sub>2</sub> Quantum Spin Liquids with Quasi-particle Statistics</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(52).pdf" style="text-decoration:none;">Construction of Hamiltonians by supervised learning of energy and entanglement spectra</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(50).pdf" style="text-decoration:none;">Greek and Roman slavery </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(51).pdf" style="text-decoration:none;">Smoke Signals
+for the Gods: Ancient Greek Sacrifice from the Archaic through Roman Periods</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(52).pdf" style="text-decoration:none;">A Treatise of Legal Philosophy and General Jurisprudence: Volume 7</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(53).pdf" style="text-decoration:none;">Machine Learning of Explicit Order Parameters: From the Ising Model to SU(2) Lattice Gauge Theory </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(53).pdf" style="text-decoration:none;">Learning Latin
+the Ancient Way: Latin textbooks from the ancient world </a></li>
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(54).pdf" style="text-decoration:none;">Self-Learning Monte Carlo Method: Continuous-Time Algorithm </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(54).pdf" style="text-decoration:none;">The Story of Rome As Greeks and Romans Tell It </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(55).pdf" style="text-decoration:none;">Machine-learning-assisted correction of correlated qubit errors in a topological code</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(55).pdf" style="text-decoration:none;">A Companion to Greek and Roman Political Thought</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(56).pdf" style="text-decoration:none;">Criticality and Deep Learning II: Momentum Renormalisation Group </a></li>                              
+  <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(56).pdf" style="text-decoration:none;">Rome, the Greek World,
+and the East </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(57).pdf" style="text-decoration:none;">Active learning machine learns to create new quantum experiments </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(57).pdf" style="text-decoration:none;">City of the Sharp-nosed Fish: Greek Papyri Beneath the Egyptian Sand Reveal a Long-lost World </a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(58).pdf" style="text-decoration:none;">Unsupervised Learning of Frustrated Classical Spin Models I: Principle Component Analysis</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(59).pdf" style="text-decoration:none;">Self-Learning Phase Boundaries by Active Contours</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(58).pdf" style="text-decoration:none;">A to Z of Ancient Greek and Roman Women</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(59).pdf" style="text-decoration:none;">The Mythology
+of the Night Sky: An Amateur Astronomer's Guide to the Ancient Greek and Roman Legends</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(60).pdf" style="text-decoration:none;">Inverse Ising inference by combining Ornstein-Zernike theory with deep learning </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(60).pdf" style="text-decoration:none;">The Legend of Alexander The Great on Greek and Roman Coins </a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(61).pdf" style="text-decoration:none;">Deep neural networks for direct, featureless learning through observation: the case of 2d spin models</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(61).pdf" style="text-decoration:none;">The Art of Building in the Classical World: Vision, Craftsmanship, and Linear Perspective in Greek and Roman Architecture</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(62).pdf" style="text-decoration:none;">Quantum phase recognition via unsupervised machine learning</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(62).pdf" style="text-decoration:none;">The Legend of Attis in Greek and Roman art</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(63).pdf" style="text-decoration:none;">Learning the Einstein-Podolsky-Rosen correlations on a Restricted Boltzmann Machine</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(63).pdf" style="text-decoration:none;">Everything Classical Mythology Book: Greek and Roman gods, goddesses, heroes, and monsters from Ares to Zeus</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(64).pdf" style="text-decoration:none;">Quantum dynamics in transverse-field Ising models from classical networks</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(64).pdf" style="text-decoration:none;">The Politics of Honour in the Greek Cities of the Roman Empire</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(65).pdf" style="text-decoration:none;">Quantum machine learning: a classical perspective </a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(65).pdf" style="text-decoration:none;">Pietas: Selected Studies in Roman Religion (Studies in Greek and Roman Religion, 1) </a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(66).pdf" style="text-decoration:none;">Solving the Bose-Hubbard model with machine learning</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(66).pdf" style="text-decoration:none;">Greek and Roman Plays: For the Intermediate Grades, Fearson Teacher Aids, Grades 4-8 </a></li> 
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(67).pdf" style="text-decoration:none;">Spectral Dynamics of Learning Restricted Boltzmann Machines</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(67).pdf" style="text-decoration:none;">The Ancient Dancer in the Modern World: Responses to Greek and Roman Dance</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(68).pdf" style="text-decoration:none;">Deep Learning the Ising Model Near Criticality</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(68).pdf" style="text-decoration:none;">Greek and Roman coins in the Antiquities Museum of the University of Queensland</a></li> 
  
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(69).pdf" style="text-decoration:none;">Learning Fermionic Critical Points</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(69).pdf" style="text-decoration:none;">BARBARIANS
+in the Greek and Roman World</a></li>                              
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(70).pdf" style="text-decoration:none;">Extensive deep neural networks</a></li> 
   
