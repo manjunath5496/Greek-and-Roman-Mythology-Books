@@ -167,7 +167,7 @@ Mythology A to Z</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(82).pdf" style="text-decoration:none;">The Oxford Handbook of Greek and Roman Comedy</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(83).pdf" style="text-decoration:none;">The Cambridge History of Greek and Roman Warfare. Vol. II: Rome from the Late Republic to the Late Empire</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(84).pdf" style="text-decoration:none;"Greek and Roman
+  <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(84).pdf" style="text-decoration:none;">Greek and Roman
 Mythology A to Z</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(85).pdf" style="text-decoration:none;">Map-by-map directory to accompany Barrington atlas of the Greek and Roman world: with a digital version of the atlas gazetteer</a></li>
