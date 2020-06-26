@@ -252,6 +252,10 @@ Greek Reader</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(122).pdf" style="text-decoration:none;">A History of the Classical Greek World, 478–323 BC</a></li>  
    
 <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(123).pdf" style="text-decoration:none;">Get Started in Greek</a></li> 
+    
+   <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(124).pdf" style="text-decoration:none;">The Greek Myths: Stories of the Greek Gods and Heroes Vividly Retold</a></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(125).pdf" style="text-decoration:none;">The Greeks and Greek civilization</a></li> 
  
  
  </ul>
