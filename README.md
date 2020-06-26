@@ -242,7 +242,16 @@ Greek Reader</a></li>
    
    <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(117).pdf" style="text-decoration:none;">Faith, Hope and Worship: Aspects of Religious Mentality in the Ancient World (Studies in Greek and Roman Religion 2)</a></li>  
    
-
+   <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(118).pdf" style="text-decoration:none;">Nietzsche Versus Paul</a></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(119).pdf" style="text-decoration:none;">Percy Jackson's Greek Heroes</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(120).pdf" style="text-decoration:none;">Wrath of the Gods: The Complete Mythological Guide to the Game with Entertaining Information Based on the Stories of the Heroes of the Greek Myths and the Gods</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(121).pdf" style="text-decoration:none;">The Primacy of the Political: A History of Political Thought from the Greeks to the French and American Revolutions</a></li>   
+   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(122).pdf" style="text-decoration:none;">A History of the Classical Greek World, 478–323 BC</a></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(123).pdf" style="text-decoration:none;">Get Started in Greek</a></li> 
  
  
  </ul>
