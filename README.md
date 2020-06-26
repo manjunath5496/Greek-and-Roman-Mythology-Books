@@ -137,28 +137,30 @@ of the Night Sky: An Amateur Astronomer's Guide to the Ancient Greek and Roman L
    <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(69).pdf" style="text-decoration:none;">BARBARIANS
 in the Greek and Roman World</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(70).pdf" style="text-decoration:none;">Extensive deep neural networks</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(70).pdf" style="text-decoration:none;">A Companion to Families in the Greek and Roman Worlds</a></li> 
   
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(71).pdf" style="text-decoration:none;">Machine Learning Topological Invariants with Neural Networks</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(71).pdf" style="text-decoration:none;">Greek Historiography, Roman Society, Christian Empire: The Ecclesiastical History of Eusebius of Caesarea</a></li>
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(72).pdf" style="text-decoration:none;">Phase Diagrams of Three-Dimensional Anderson and Quantum Percolation Models using Deep Three-Dimensional Convolutional
-Neural Network</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(72).pdf" style="text-decoration:none;">Performance in Greek and Roman Theatre</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(73).pdf" style="text-decoration:none;">Machine Learning Spatial Geometry from Entanglement Features</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(74).pdf" style="text-decoration:none;">Unsupervised Generative Modeling Using Matrix Product States</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(75).pdf" style="text-decoration:none;">Identifying Product Order with Restricted Boltzmann Machines</a></li>                        
-<li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(76).pdf" style="text-decoration:none;">Machine learning and artificial intelligence in the quantum domain</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(73).pdf" style="text-decoration:none;">The Tools of Asclepius:
+Surgical Instruments in Greek and Roman Times</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(74).pdf" style="text-decoration:none;">The Oxford History of Greece and the Hellenistic World</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(75).pdf" style="text-decoration:none;">Jewish Rights
+in the Roman World</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(76).pdf" style="text-decoration:none;">The Oxford Handbook of Greek and Roman Art and Architecture</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(77).pdf" style="text-decoration:none;">Learning Disordered Topological Phases by Statistical Recovery of Symmetry</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(77).pdf" style="text-decoration:none;">Egyptian
+Mythology A to Z</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(78).pdf" style="text-decoration:none;">Restricted-Boltzmann-Machine Learning for Solving Strongly Correlated Quantum Systems</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(79).pdf" style="text-decoration:none;">Quantum Autoencoders via Quantum Adders with Genetic Algorithms</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(78).pdf" style="text-decoration:none;">Greek Sacred Law</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(79).pdf" style="text-decoration:none;">Antifragile: Things That Gain from Disorder</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(80).pdf" style="text-decoration:none;">Generalized Quantum Reinforcement Learning with Quantum Technologies</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(80).pdf" style="text-decoration:none;">Encyclopedia of Greek and Roman Mythology</a></li> 
  
  
  <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(81).pdf" style="text-decoration:none;">Combining Machine Learning and Physics to Understand Glassy Systems</a></li>
