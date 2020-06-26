@@ -45,7 +45,7 @@ Germans: How the Nazis Usurped Europe's Classical Past</a></li>
 of the Greeks and Romans</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(21).pdf" style="text-decoration:none;">Arcana Mundi: Magic and the Occult in the Greek and Roman Worlds: A Collection of Ancient Texts</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(22).pdf" style="text-decoration:none;">Accelerate Monte Carlo Simulations with Restricted Boltzmann Machines</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(22).pdf" style="text-decoration:none;">A Critical History of Greek Philosophy</a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(23).pdf" style="text-decoration:none;">The Cambridge Companion to Greek and Roman Philosophy</a></li> 
  
 
@@ -74,7 +74,7 @@ Classical World: Ethical Perspectives from Greek and Roman Texts</a></li>
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(36).pdf" style="text-decoration:none;">The Genres of Rhetorical Speeches in Greek and Roman Antiquity</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(37).pdf" style="text-decoration:none;">Unsupervised learning of phase transitions: from principal component analysis to variational autoencoders</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(37).pdf" style="text-decoration:none;">Sophocles: Four Tragedies</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(38).pdf" style="text-decoration:none;">Roman Rule in Greek and Latin Writing</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(39).pdf" style="text-decoration:none;">Formulaic expressions in official Roman Republican epistolography inscribed in Greek</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(40).pdf" style="text-decoration:none;">Roman Festivals in the Greek East: From the Early Empire to the Middle Byzantine Era</a></li>                              
@@ -163,7 +163,7 @@ Mythology A to Z</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(80).pdf" style="text-decoration:none;">Encyclopedia of Greek and Roman Mythology</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(81).pdf" style="text-decoration:none;">Combining Machine Learning and Physics to Understand Glassy Systems</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(81).pdf" style="text-decoration:none;">The New Testament in Greek IV</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(82).pdf" style="text-decoration:none;">The Oxford Handbook of Greek and Roman Comedy</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(83).pdf" style="text-decoration:none;">The Cambridge History of Greek and Roman Warfare. Vol. II: Rome from the Late Republic to the Late Empire</a></li>
@@ -237,7 +237,8 @@ among Greeks and Romans</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(114).pdf" style="text-decoration:none;">A History of Greece from Its Conquest by the Romans to the Present Time, B.C. 146 to A.D. 1864</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(115).pdf" style="text-decoration:none;">Ancient Cities: The archaeology of urban life in the Ancient Near East and Egypt, Greece, and Rome</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(116).pdf" style="text-decoration:none;">The Mean-Field Approximation: Information Inequalities, Algorithms, and Complexity</a></li>   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(116).pdf" style="text-decoration:none;">The Routledge Modern
+Greek Reader</a></li>   
    
    <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(117).pdf" style="text-decoration:none;">Faith, Hope and Worship: Aspects of Religious Mentality in the Ancient World (Studies in Greek and Roman Religion 2)</a></li>  
    
