@@ -207,36 +207,39 @@ Mythology</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(102).pdf" style="text-decoration:none;">Volume 8: Rome and the Mediterranean to 133 BC</a></li> 
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(103).pdf" style="text-decoration:none;">A relativistic extension of Hopfield neural networks via the mechanical analogy </a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(103).pdf" style="text-decoration:none;">The City-State of the Greeks and Romans: A Survey, Introductory to the Study of Ancient History</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(104).pdf" style="text-decoration:none;">Generative Models for Stochastic Processes Using Convolutional Neural Networks</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(104).pdf" style="text-decoration:none;">The First Fossil Hunters: Paleontology in Greek and Roman Times</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(105).pdf" style="text-decoration:none;">Scale-invariant Feature Extraction of Neural Network and Renormalization Group Flow</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(105).pdf" style="text-decoration:none;">Myths of the
+Greeks and Romans</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(106).pdf" style="text-decoration:none;">Experimentally Detecting a Quantum Change Point via Bayesian Inference</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(106).pdf" style="text-decoration:none;">Classical Sculpture:
+Catalogue of the Cypriot, Greek, and Roman Stone Sculpture in the University of Pennsylvania Museum of Archaeology and Anthropology</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(107).pdf" style="text-decoration:none;">Leveraging Adiabatic Quantum Computation for Election Forecasting</a></li> 
-  
-   
- <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(108).pdf" style="text-decoration:none;">Deep UQ: Learning deep neural network surrogate models for high dimensional uncertainty quantification</a></li> 
-  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(109).pdf" style="text-decoration:none;">Critical Percolation as a Framework to Analyze the Training of Deep Networks</a></li>  
-   
- <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(110).pdf" style="text-decoration:none;">Neural Network Renormalization Group</a></li>  
-   
-<li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(111).pdf" style="text-decoration:none;">Taking gradients through experiments: LSTMs and memory proximal policy optimization for black-box quantum control</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(107).pdf" style="text-decoration:none;">Greek and Roman Necromancy</a></li> 
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(112).pdf" style="text-decoration:none;">Reinforcement Learning with Neural Networks for Quantum Feedback</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(108).pdf" style="text-decoration:none;">Jewish Life and Thought 
+among Greeks and Romans</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(113).pdf" style="text-decoration:none;">Learning DNFs under product distributions via μ–biased quantum Fourier sampling</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(109).pdf" style="text-decoration:none;">Inconsistencies in Greek and Roman Religion, Volume 1: Ter Unus. Isis, Dionysos, Hermes. Three Studies in Henotheism</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(114).pdf" style="text-decoration:none;">Inferring relevant features: from QFT to PCA</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(115).pdf" style="text-decoration:none;">Quantum Variational Autoencoder</a></li>  
+ <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(110).pdf" style="text-decoration:none;">The Classical Tradition: Greek and Roman Influences on Western Literature</a></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(111).pdf" style="text-decoration:none;">The Origins Of Western Warfare: Militarism And Morality In The Ancient World</a></li> 
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(112).pdf" style="text-decoration:none;">Hellenizing Art in Ancient Nubia 300 BC–AD 250 and its Egyptian Models</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(113).pdf" style="text-decoration:none;">A Companion to Ancient Egypt, Volume 1</a></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(114).pdf" style="text-decoration:none;">A History of Greece from Its Conquest by the Romans to the Present Time, B.C. 146 to A.D. 1864</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(115).pdf" style="text-decoration:none;"Ancient Cities: The archaeology of urban life in the Ancient Near East and Egypt, Greece, and Rome</a></li>  
    
  <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(116).pdf" style="text-decoration:none;">The Mean-Field Approximation: Information Inequalities, Algorithms, and Complexity</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(117).pdf" style="text-decoration:none;">Deep neural decoders for near term fault-tolerant experiments</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Greek-and-Roman-Mythology-Books/blob/master/rgk(117).pdf" style="text-decoration:none;">Faith, Hope and Worship: Aspects of Religious Mentality in the Ancient World (Studies in Greek and Roman Religion 2)</a></li>  
    
 
  
